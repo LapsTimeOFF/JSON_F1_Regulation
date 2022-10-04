@@ -1,0 +1,61 @@
+{
+    "file_issue": 8,
+    "released_on": "19/7/22",
+    "articles": [
+        {
+            "index": 1,
+            "name": "Regulations",
+            "page": 2
+        },
+        {
+            "index": 2,
+            "name": "General Undertaking",
+            "page": 2
+        },
+        {
+            "index": 3,
+            "name": "General Conditions",
+            "page": 2
+        },
+        {
+            "index": 4,
+            "name": "Licences",
+            "page": 3
+        },
+        {
+            "index": 5,
+            "name": "Championship Competitions",
+            "page": 3
+        },
+        {
+            "index": 6,
+            "name": "World Championship",
+            "page": 4
+        },
+        {
+            "index": 7,
+            "name": "Dead Heat",
+            "page": 6
+        },
+        {
+            "index": 8,
+            "name": "Competitors Applications",
+            "page": 6
+        },
+        {
+            "index": 9,
+            "name": "Car Livery",
+            "page": 7
+        },
+        {
+            "index": 10,
+            "name": "Track Running Time Outside A Competition",
+            "page": 8
+        },
+        {
+            "index": 11,
+            "name": "Promoter",
+            "page": 13
+        }
+    ]
+}
