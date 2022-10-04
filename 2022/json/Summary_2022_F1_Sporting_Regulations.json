@@ -71,6 +71,16 @@
             "index": 14,
             "name": "FiA Delegates",
             "page": 13
+        },
+        {
+            "index": 15,
+            "name": "Officials",
+            "page": 14
+        },
+        {
+            "index": 16,
+            "name": "Instructions And Communications To Competitors",
+            "page": 15
         }
     ]
 }
