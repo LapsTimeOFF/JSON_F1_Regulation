@@ -56,6 +56,21 @@
             "index": 11,
             "name": "Promoter",
             "page": 13
+        },
+        {
+            "index": 12,
+            "name": "Organisation Of A Competition",
+            "page": 13
+        },
+        {
+            "index": 13,
+            "name": "Insurance",
+            "page": 13
+        },
+        {
+            "index": 14,
+            "name": "FiA Delegates",
+            "page": 13
         }
     ]
 }
