@@ -13,7 +13,7 @@ for (let _i = 0; _i < file.articles.length; _i++) {
     
     newJSON.articles[_i] = {
         "index": _i+1,
-        "name": article.name,
+        "name": article.name.toUpperCase(),
         "page": article.page
     }
 }
