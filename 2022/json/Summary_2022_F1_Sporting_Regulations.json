@@ -2,117 +2,155 @@
     "file_issue": 8,
     "released_on": "19/7/22",
     "articles": [{
+        "index": 1,
         "name": "REGULATIONS",
         "page": 2
     }, {
+        "index": 2,
         "name": "GENERAL UNDERTAKING",
         "page": 2
     }, {
+        "index": 3,
         "name": "GENERAL CONDITIONS",
         "page": 2
     }, {
+        "index": 4,
         "name": "LICENCES",
         "page": 3
     }, {
+        "index": 5,
         "name": "CHAMPIONSHIP COMPETITIONS",
         "page": 3
     }, {
+        "index": 6,
         "name": "WORLD CHAMPIONSHIP",
         "page": 4
     }, {
+        "index": 7,
         "name": "DEAD HEAT",
         "page": 6
     }, {
+        "index": 8,
         "name": "COMPETITORS APPLICATIONS",
         "page": 6
     }, {
+        "index": 9,
         "name": "CAR LIVERY",
         "page": 7
     }, {
+        "index": 10,
         "name": "TRACK RUNNING TIME OUTSIDE A COMPETITION",
         "page": 8
     }, {
+        "index": 11,
         "name": "PROMOTER",
         "page": 13
     }, {
+        "index": 12,
         "name": "ORGANISATION OF A COMPETITION",
         "page": 13
     }, {
+        "index": 13,
         "name": "INSURANCE",
         "page": 13
     }, {
+        "index": 14,
         "name": "FIA DELEGATES",
         "page": 13
     }, {
+        "index": 15,
         "name": "OFFICIALS",
         "page": 14
     }, {
+        "index": 16,
         "name": "INSTRUCTIONS AND COMMUNICATIONS TO COMPETITORS",
         "page": 15
     }, {
+        "index": 17,
         "name": "PROTEST AND APPEALS",
         "page": 15
     }, {
+        "index": 18,
         "name": "SANCTIONS",
         "page": 15
     }, {
+        "index": 19,
         "name": "PRESS CONFERENCES, MEDIA OPPORTUNITIES, DRIVERS PARADE AND NATIONAL ANTHEM",
         "page": 15
     }, {
+        "index": 20,
         "name": "MEETINGS",
         "page": 19
     }, {
+        "index": 21,
         "name": "COVERING OF COMPONENTS DURING A COMPETITION",
         "page": 19
     }, {
+        "index": 22,
         "name": "DRIVER ADJUSTABLE BODYWORK",
         "page": 20
     }, {
+        "index": 23,
         "name": "OPERATIONAL PERSONNEL DURING A COMPETITION",
         "page": 20
     }, {
+        "index": 24,
         "name": "COMPETITOR FACTORY SHUTDOWN PERIOD",
         "page": 22
     }, {
+        "index": 25,
         "name": "POWER UNIT MANUFACTURER SHUTDOWN PERIOD",
         "page": 23
     }, {
+        "index": 26,
         "name": "GENERAL SAFETY",
         "page": 24
     }, {
+        "index": 27,
         "name": "SPARE CARS",
         "page": 25
     }, {
+        "index": 28,
         "name": "POWER UNIT USAGE",
         "page": 26
     }, {
+        "index": 29,
         "name": "USAGE OF RESTRICTED NUMBER COMPONENTS (RNC)",
         "page": 27
     }, {
+        "index": 30,
         "name": "SUPPLY OF TYRES IN THE CHAMPIONSHIP AND TYRE LIMITATION DURING THE COMPETITION",
         "page": 28
     }, {
+        "index": 31,
         "name": "SCRUTINEERING",
         "page": 35
     }, {
+        "index": 32,
         "name": "CHANGES OF DRIVER",
         "page": 36
     }, {
+        "index": 33,
         "name": "DRIVING",
         "page": 36
     }, {
+        "index": 34,
         "name": "PIT ENTRY, PIT LANE AND PIT EXIT",
         "page": 37
     }, {
+        "index": 35,
         "name": "WEIGHING",
         "page": 39
     }, {
+        "index": 36,
         "name": "REFUELLING",
         "page": 39
     }, {
+        "index": 37,
         "name": "PRACTICE SESSIONS",
         "page": 40
     }, {
+        "index": 38,
         "name": "FREE PRACTICE",
         "page": 41
     }]
